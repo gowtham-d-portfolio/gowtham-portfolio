@@ -1,1 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Gowtham D | Digital Marketing Portfolio</title>
+
+    <meta name="description" content="Gowtham D - Digital Marketing Executive specializing in SEO, Google Ads, Meta Ads and Social Media Marketing.">
+
+    <style>
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #0b1120;
+            color: #ffffff;
+            line-height: 1.7;
+        }
+
+        /* NAVIGATION */
+
+        header {
+            background: #111827;
+            padding: 18px 8%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo {
+            font-size: 25px;
+            font-weight: bold;
+            color: #38bdf8;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-left: 22px;
+            font-size: 15px;
+        }
+
+        nav a:hover {
+            color: #38bdf8;
+        }
+
+        /* HERO SECTION */
+
+        .hero {
+            min-height: 90vh;
+            display: flex;
+            align-items: center;
+            padding: 70px 10%;
+            background: linear-gradient(135deg, #0b1120, #172554);
+        }
+
+        .hero-content {
+            max-width: 750px;
+        }
+
+        .hero h1 {
+            font-size: 52px;
+            margin-bottom: 15px;
+        }
+
+        .hero h1 span {
+            color: #38bdf8;
+        }
+
+        .hero h2 {
+            color: #94a3b8;
+            font-size: 25px;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            color: #cbd5e1;
+            font-size: 17px;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #38bdf8;
+            color: #0b1120;
+            padding: 12px 25px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-right: 10px;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #ffffff;
+            transform: translateY(-3px);
+        }
+
+        .btn-outline {
+            border: 1px solid #38bdf8;
+            color: #38bdf8;
+            background: transparent;
+        }
+
+        /* GENERAL SECTION */
+
+        section {
+            padding: 80px 10%;
+        }
+
+        .section-title {
+            font-size: 35px;
+            text-align: center;
+            margin-bottom: 40px;
+            color: #38bdf8;
+        }
+
+        /* ABOUT */
+
+        .about p {
+            color: #cbd5e1;
+            font-size: 17px;
+            max-width: 900px;
+            margin: auto;
+            text-align: center;
+        }
+
+        /* SKILLS */
+
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .skill-box {
+            background: #1e293b;
+            padding: 25px;
+            text-align: center;
+            border-radius: 10px;
+            transition: 0.3s;
+        }
+
+        .skill-box:hover {
+            transform: translateY(-7px);
+            background: #263b59;
+        }
+
+        .skill-box h3 {
+            color: #38bdf8;
+            margin-bottom: 8px;
+        }
+
+        /* EXPERIENCE */
+
+        .experience-box {
+            background: #1e293b;
+            padding: 30px;
+            margin-bottom: 20px;
+            border-left: 4px solid #38bdf8;
+            border-radius: 8px;
+        }
+
+        .experience-box h3 {
+            color: #38bdf8;
+        }
+
+        .experience-box p,
+        .experience-box li {
+            color: #cbd5e1;
+        }
+
+        .experience-box ul {
+            padding-left: 20px;
+            margin-top: 10px;
+        }
+
+        /* PROJECTS */
+
+        .projects-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+        }
+
+        .project-card {
+            background: #1e293b;
+            padding: 30px;
+            border-radius: 10px;
+            transition: 0.3s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-7px);
+        }
+
+        .project-card h3 {
+            color: #38bdf8;
+            margin-bottom: 12px;
+        }
+
+        .project-card p {
+            color: #cbd5e1;
+        }
+
+        /* EDUCATION */
+
+        .education-box {
+            background: #1e293b;
+            padding: 25px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+        }
+
+        .education-box h3 {
+            color: #38bdf8;
+        }
+
+        /* CERTIFICATIONS */
+
+        .cert-box {
+            background: #1e293b;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        /* CONTACT */
+
+        .contact {
+            text-align: center;
+            background: #111827;
+        }
+
+        .contact p {
+            margin: 12px 0;
+            color: #cbd5e1;
+        }
+
+        .contact a {
+            color: #38bdf8;
+            text-decoration: none;
+        }
+
+        /* FOOTER */
+
+        footer {
+            background: #080d18;
+            text-align: center;
+            padding: 20px;
+            color: #94a3b8;
+        }
+
+        /* MOBILE RESPONSIVE */
+
+        @media(max-width: 768px) {
+
+            header {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            nav {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 12px;
+            }
+
+            nav a {
+                margin: 0;
+                font-size: 13px;
+            }
+
+            .hero h1 {
+                font-size: 36px;
+            }
+
+            .hero h2 {
+                font-size: 20px;
+            }
+
+            section {
+                padding: 60px 6%;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+
+    <header>
+
+        <div class="logo">GOWTHAM D</div>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#experience">Experience</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+    </header>
+
+
+    <!-- HOME -->
+
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+
+            <h1>Hello, I'm <span>Gowtham D</span></h1>
+
+            <h2>Digital Marketing Executive</h2>
+
+            <p>
+                I specialize in SEO, Google Ads, Meta Ads,
+                Social Media Marketing and Content Creation.
+                I am passionate about helping businesses
+                grow through digital marketing strategies.
+            </p>
+
+            <a href="#projects" class="btn">View My Projects</a>
+
+            <a href="#contact" class="btn btn-outline">Contact Me</a>
+
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT -->
+
+    <section class="about" id="about">
+
+        <h2 class="section-title">About Me</h2>
+
+        <p>
+            I am Gowtham D, an MBA graduate with a strong interest
+            in Digital Marketing. I completed a six-month internship
+            at WHY Global Services, where I gained practical knowledge
+            in SEO, Google Ads, Meta Ads, Social Media Marketing
+            and Content Creation.
+
+            I also have professional experience as a Data Entry
+            Executive at FCS Pvt. Ltd. I am hardworking,
+            self-motivated and a quick learner. My goal is to
+            develop my digital marketing skills and contribute
+            to business growth.
+        </p>
+
+    </section>
+
+
+    <!-- SKILLS -->
+
+    <section id="skills">
+
+        <h2 class="section-title">My Skills</h2>
+
+        <div class="skills-container">
+
+            <div class="skill-box">
+                <h3>SEO</h3>
+                <p>Search Engine Optimization</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Google Ads</h3>
+                <p>Search Campaigns & PPC Advertising</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Meta Ads</h3>
+                <p>Facebook & Instagram Advertising</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Social Media</h3>
+                <p>Social Media Marketing</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Content Creation</h3>
+                <p>Creative Content Development</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Keyword Research</h3>
+                <p>Keyword Analysis & Research</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Google Analytics</h3>
+                <p>Website Performance Analysis</p>
+            </div>
+
+            <div class="skill-box">
+                <h3>Canva</h3>
+                <p>Creative Design & Marketing Posters</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- EXPERIENCE -->
+
+    <section id="experience">
+
+        <h2 class="section-title">Work Experience</h2>
+
+        <div class="experience-box">
+
+            <h3>Digital Marketing Intern</h3>
+
+            <h4>WHY Global Services | 6 Months</h4>
+
+            <ul>
+                <li>Performed keyword research and SEO activities.</li>
+                <li>Worked on Google Ads campaign creation.</li>
+                <li>Practiced Meta Ads campaign management.</li>
+                <li>Created social media content.</li>
+                <li>Worked on website optimization.</li>
+            </ul>
+
+        </div>
+
+        <div class="experience-box">
+
+            <h3>Data Entry Executive</h3>
+
+            <h4>FCS Pvt. Ltd. | 1 Year 8 Months</h4>
+
+            <ul>
+                <li>Maintained company records and documentation.</li>
+                <li>Managed data entry and data processing.</li>
+                <li>Prepared dispatch reports.</li>
+                <li>Maintained accurate inventory records.</li>
+            </ul>
+
+        </div>
+
+    </section>
+
+
+    <!-- PROJECTS -->
+
+    <section id="projects">
+
+        <h2 class="section-title">My Projects</h2>
+
+        <div class="projects-container">
+
+            <div class="project-card">
+
+                <h3>GM Sports Shop</h3>
+
+                <p>
+                    Developed an e-commerce website concept
+                    for sports and fitness products.
+                    Worked on SEO content, keyword research
+                    and digital marketing strategies.
+                </p>
+
+            </div>
+
+            <div class="project-card">
+
+                <h3>Google Ads Campaign</h3>
+
+                <p>
+                    Practiced Google Ads campaign setup,
+                    keyword research, ad groups,
+                    keyword match types and campaign optimization.
+                </p>
+
+            </div>
+
+            <div class="project-card">
+
+                <h3>Social Media Marketing</h3>
+
+                <p>
+                    Created promotional content,
+                    social media creatives and
+                    audience engagement strategies.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- EDUCATION -->
+
+    <section id="education">
+
+        <h2 class="section-title">Education</h2>
+
+        <div class="education-box">
+
+            <h3>Master of Business Administration (MBA)</h3>
+
+            <p>Sri Ramanujar Engineering College</p>
+
+        </div>
+
+        <div class="education-box">
+
+            <h3>Bachelor of Commerce (B.Com)</h3>
+
+            <p>Bharath University</p>
+
+        </div>
+
+    </section>
+
+
+    <!-- CERTIFICATIONS -->
+
+    <section id="certifications">
+
+        <h2 class="section-title">Certifications</h2>
+
+        <div class="cert-box">
+            Advanced Digital Marketing Certification
+            <br>
+            <strong>Why Tap Institute</strong>
+        </div>
+
+        <div class="cert-box">
+            English Communication Skill Certification
+            <br>
+            <strong>VLC Institute</strong>
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+
+    <section class="contact" id="contact">
+
+        <h2 class="section-title">Contact Me</h2>
+
+        <p>
+            📧 Email:
+            <a href="mailto:dgowtham091@gmail.com">
+                dgowtham091@gmail.com
+            </a>
+        </p>
+
+        <p>
+            📱 Phone:
+            <a href="tel:+919361786838">
+                +91 9361786838
+            </a>
+        </p>
+
+        <p>
+            💼 LinkedIn:
+            <a href="https://www.linkedin.com/in/gowtham-d-972007417/"
+               target="_blank" rel="noopener noreferrer">
+                View My LinkedIn Profile
+            </a>
+        </p>
+
+    </section>
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <p>© 2026 Gowtham D | Digital Marketing Portfolio</p>
+
+        <p>Designed with HTML & CSS</p>
+
+    </footer>
+
+</body>
+
+</html>
