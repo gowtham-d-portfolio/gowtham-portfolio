@@ -79,9 +79,17 @@ My Digital Marketing Portfolio Website
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>Hello! I am Gowtham D from Kandigai, Chennai. I completed my B.Com at Bharath University and my MBA at Sri Ramanujar Engineering College.</p>
-            <p>I completed a six-month digital marketing internship at WHY Global Services. I gained practical knowledge in SEO, Google Ads, Meta Ads, social media marketing, and content creation.</p>
-            <p>I am hardworking, self-motivated, and a quick learner. I am looking for opportunities to improve my skills and contribute to company growth.</p>
+            <p>Hello! ## About Me
+
+I am Gowtham D, an MBA graduate with a strong interest in Digital Marketing and business growth strategies. I have a background in Commerce and Management, along with practical experience in digital marketing and data management.
+
+I completed a six-month Digital Marketing internship at WHY Global Services, where I gained hands-on experience in Search Engine Optimization (SEO), Google Ads, Meta Ads, Social Media Marketing, and Content Creation.
+
+Additionally, I have 1 year and 6 months of professional experience as a Data Entry Executive at FCS Pvt. Ltd., where I developed skills in data management, documentation, record maintenance, and accuracy.
+
+            <p> I am passionate about digital marketing, online brand development, and performance-driven marketing strategies. I continuously work on improving my technical knowledge, analytical abilities, and creative skills to deliver meaningful results.
+.</p>
+            <p> My objective is to contribute to an organization's digital growth while developing my expertise in SEO, PPC advertising, and digital marketing strategy.</p>
         </section>
 
         <section id="skills">
