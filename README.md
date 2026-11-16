@@ -1,141 +1,122 @@
-\<div align="center">
+# 👋 Hi, I'm Gowtham D
 
-# GOWTHAM D
+### Digital Marketing Executive | SEO | Google Ads | Meta Ads
 
-### DIGITAL MARKETING PROFESSIONAL
+Welcome to my GitHub profile! I am an MBA graduate with a strong interest in Digital Marketing. I have practical experience in SEO, Google Ads, Meta Ads, Social Media Marketing, and Content Creation.
 
-**SEO | GOOGLE ADS | META ADS | PPC | SOCIAL MEDIA MARKETING**
-
-📍 Chennai, Tamil Nadu, India
-
-\<a href="mailto:[dgowtham091@gmail.com](mailto\:dgowtham091@gmail.com)">EMAIL ME\</a> •
-\<a href="[https://www.linkedin.com/in/gowtham-d-972007417/](https://www.linkedin.com/in/gowtham-d-972007417/)">LINKEDIN\</a>
+I am passionate about learning new digital marketing strategies, improving online visibility, and helping businesses grow through effective digital marketing solutions.
 
 ---
 
-### PROFESSIONAL PROFILE
+## 👨‍💻 About Me
 
-*Building Digital Presence. Creating Marketing Opportunities. Driving Business Growth.*
-
-\</div>
-
-## ABOUT ME
-
-I am an MBA graduate with a strong interest in Digital Marketing, online business development, and performance marketing strategies.
-
-I have completed a six-month Digital Marketing internship at **WHY Global Services**, where I gained practical exposure to Search Engine Optimization (SEO), Google Ads, Meta Ads, Social Media Marketing, and Content Creation.
-
-Additionally, I bring **1 year and 6 months of professional experience** as a Data Entry Executive at FCS Pvt. Ltd., where I developed strong skills in data management, documentation, reporting, and accuracy.
-
-I am passionate about developing digital marketing skills, exploring new marketing technologies, and contributing to business growth through effective online marketing strategies.
-
-## CORE COMPETENCIES
-
-| Digital Marketing          | Skills                           |
-| :------------------------- | :------------------------------- |
-| Search Engine Optimization | Keyword Research, On-Page SEO    |
-| Search Engine Marketing    | Google Ads, PPC                  |
-| Paid Advertising           | Meta Ads, Campaign Setup         |
-| Social Media Marketing     | Content Planning, Engagement     |
-| Content Marketing          | Content Creation, Canva          |
-| Web Analytics              | Google Analytics, Search Console |
-
-## TECHNOLOGY & TOOLS
-
-\<p> \<img src="[https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge\&logo=googleads\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge\&logo=meta\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)"> \<img src="[https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)"> \</p>
-
-## PROFESSIONAL EXPERIENCE
-
-### DIGITAL MARKETING INTERN
-
-**WHY Global Services | 6 Months**
-
-- Gained practical exposure to SEO and keyword research.
-- Worked on Google Ads campaign setup and optimization.
-- Learned Meta Ads campaign creation and management.
-- Developed social media content and promotional strategies.
-- Worked with Google Analytics and Google Search Console.
-
-### DATA ENTRY EXECUTIVE
-
-Fluoro Carbon Seal&#x73;**&#x20;Pvt. Ltd. | 1 Year  8 Months**
-
-- Managed company records and database information.
-- Maintained accurate documentation and reports.
-- Handled data processing and record management.
-- Supported dispatch reporting and inventory documentation.
-
-## FEATURED PROJECTS
-
-### 01. GM SPORTS SHOP
-
-**E-commerce & Digital Marketing Project**
-
-- Website content development.
-- SEO keyword research and optimization.
-- Google Ads campaign planning.
-- Social media marketing strategies.
-- Product promotion and brand awareness ideas.
-
-### 02. SOCIAL MEDIA MARKETING
-
-- Social media content planning.
-- Promotional creative development.
-- Audience engagement strategies.
-- Brand awareness campaign ideas.
-
-### 03. SEO & WEBSITE OPTIMIZATION
-
-- Keyword research.
-- On-page SEO practices.
-- Website content optimization.
-- Google Search Console practice.
-
-## EDUCATION
-
-| Degree | Institution                       |
-| :----- | :-------------------------------- |
-| MBA    | Sri Ramanujar Engineering College |
-| B.Com  | Bharath University                |
-
-## CERTIFICATIONS
-
-- Advanced Digital Marketing Certification – Why Tap Institute
-- English Communication Skill Certification – VLC Institute
-
-## PROFESSIONAL STRENGTHS
-
-- Quick Learner
-- Self-Motivated
-- Hardworking
-- Adaptability
-- Problem-Solving
-- Time Management
-
-## CAREER OBJECTIVE
-
-To build a successful career in Digital Marketing by applying my knowledge of SEO, PPC advertising, Google Ads, Meta Ads, and social media marketing while contributing to organizational growth and continuously developing my professional capabilities.
-
-## LET'S CONNECT
-
-I am interested in Digital Marketing Executive, SEO Executive, and PPC Analyst opportunities.
-
-📧 **Email:** [dgowtham091@gmail.com](mailto\:dgowtham091@gmail.com)
-
-📱 **Phone:** +91 9361786838
-
-📍 **Location:** Chennai, Tamil Nadu, India
-
-🔗 **LinkedIn:** [Connect with Gowtham D](https://www.linkedin.com/in/gowtham-d-972007417/)
+- 🎓 Completed MBA at Sri Ramanujar Engineering College.
+- 🎓 Completed B.Com at Bharath University.
+- 💼 Completed a 6-month Digital Marketing Internship at WHY Global Services.
+- 📈 Interested in SEO, SEM, PPC, and Social Media Marketing.
+- 🎯 Focused on improving digital marketing skills and gaining practical experience.
+- 🚀 Always interested in learning new marketing tools and technologies.
 
 ---
 
-\<div align="center">
+## 🛠️ Digital Marketing Skills
 
-### THANK YOU FOR VISITING MY PORTFOLIO
+- Search Engine Optimization (SEO)
+- Search Engine Marketing (SEM)
+- Google Ads Campaign Management
+- Meta Ads Management
+- Social Media Marketing
+- Keyword Research
+- Content Creation
+- On-Page SEO
+- Off-Page SEO
+- PPC Advertising
+- Campaign Optimization
 
-**GOWTHAM D**
+---
 
-*Digital Marketing | SEO | Google Ads | PPC*
+## 💻 Tools & Platforms
 
-\</div>
+- Google Ads
+- Google Analytics
+- Google Search Console
+- Meta Business Suite
+- Meta Ads Manager
+- Canva
+- WordPress
+- Microsoft Excel
+
+---
+
+## 📂 My Projects
+
+### 1. GM Sports Shop
+
+- Developed an e-commerce website concept for sports and fitness products.
+- Worked on website content and SEO optimization.
+- Researched relevant keywords.
+- Planned digital marketing strategies.
+
+### 2. Social Media Marketing
+
+- Created social media content ideas.
+- Developed promotional creatives.
+- Worked on audience engagement strategies.
+
+### 3. Google Ads
+
+- Practiced Google Ads campaign creation.
+- Performed keyword research.
+- Explored ad groups and campaign optimization.
+
+---
+
+## 🎓 Certifications
+
+- Advanced Digital Marketing Certification – Why Tap Institute.
+- English Communication Skill Certification – VLC Institute.
+
+---
+
+## 💼 Professional Experience
+
+**Digital Marketing Intern – WHY Global Services**
+
+Duration: 6 Months
+
+Responsibilities:
+
+- SEO and keyword research.
+- Google Ads campaign setup.
+- Meta Ads campaign management.
+- Social media marketing.
+- Content creation and optimization.
+
+**Data Entry Executive –&#x20;**&#x46;Fuoro Carbon Seal&#x73;**&#x20;Pvt. Ltd.**
+
+Duration: 1 Year 8 Months
+
+Responsibilities:
+
+- Maintained company records and databases.
+- Managed data entry and documentation.
+- Prepared dispatch reports.
+- Maintained accurate inventory records.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [dgowtham091@gmail.com](mailto\:dgowtham091@gmail.com)
+- 📱 Phone: +91 9361786838
+- 💼 LinkedIn: [Gowtham D](https://www.linkedin.com/in/gowtham-d-972007417/)
+
+---
+
+### ⭐ Career Objective
+
+To build a successful career in Digital Marketing by applying my knowledge, improving my technical skills, and contributing to business growth through effective digital marketing strategies.
+
+---
+
+**Thank You for Visiting My Profile!**
