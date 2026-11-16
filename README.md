@@ -48,7 +48,7 @@ My goal is to develop effective digital marketing strategies that improve online
 - Keyword Research
 
 ### Data Entry Executive
-**FCS Pvt. Ltd. | 1 Year 8 Months**
+**Fluoro Carbon Seals Pvt. Ltd. | 1 Year 8 Months**
 
 - Data Management
 - Documentation
