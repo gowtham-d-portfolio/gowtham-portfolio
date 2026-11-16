@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -334,9 +335,9 @@ and Digital Content Creation.
 
 <h3>Data Entry Executive</h3>
 
-<p><strong>Fluoro Carbon Seals Pvt. Ltd.</strong></p>
+<p><strong>FCS Pvt. Ltd.</strong></p>
 
-<p>Duration: 1 Year and 8 Months</p>
+<p>Duration: 1 Year and 6 Months</p>
 
 <p>
 Handled data management, company records,
@@ -397,29 +398,21 @@ SEO content writing and Google Search Console.
 
 <!-- CONTACT -->
 
-<section class="contact" id="contact">
+\<section class="contact" id="contact">
 
-<h2 class="heading">Contact <span>Me</span></h2>
+\<h2 class="heading">Contact \<span>Me\</span>\</h2>
 
-<p>Email: YOUR EMAIL ADDRESS</p>
+\<p> 📧 Email: \<a href="mailto\:dgowtham091\@gmail.com" style="color:#d4af37;"> dgowtham091\@gmail.com \</a> \</p>
 
-<p>Phone: YOUR PHONE NUMBER</p>
+\<p> 📞 Phone: \<a href="tel:+919361786838" style="color:#d4af37;"> +91 9361786838 \</a> \</p>
 
-<p>Location: Chennai, Tamil Nadu</p>
+\<p>📍 Location: Chennai, Tamil Nadu, India\</p>
 
-<p>
-LinkedIn:
-<a href="https://www.linkedin.com/in/gowtham-d-972007417/"
-style="color:#d4af37">
-View My LinkedIn
-</a>
-</p>
+\<p> LinkedIn: \<a href="[https://www.linkedin.com/in/gowtham-d-972007417/](https://www.linkedin.com/in/gowtham-d-972007417/)" style="color:#d4af37;" target="\_blank"> View My LinkedIn \</a> \</p>
 
-<a href="mailto:YOUR EMAIL ADDRESS" class="btn">
-Hire Me
-</a>
+\<a href="mailto\:dgowtham091\@gmail.com" class="btn"> Hire Me \</a>
 
-</section>
+\</section>
 
 <footer>
 
