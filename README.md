@@ -1,3 +1,4 @@
+<div align="center">
 
 # GOWTHAM D
 
@@ -120,6 +121,8 @@ To contribute my digital marketing knowledge and creative skills to an organizat
 🔗 **LinkedIn:** [Gowtham D](https://www.linkedin.com/in/gowtham-d-972007417/)
 
 ---
+
+<div align="side by side">
 
 ### THANK YOU FOR VISITING MY PORTFOLIO!
 
