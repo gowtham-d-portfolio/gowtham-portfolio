@@ -1,431 +1,141 @@
+\<div align="center">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Gowtham D | Digital Marketing Portfolio</title>
-
-<style>
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    background: #0b0b0b;
-    color: white;
-    line-height: 1.6;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 22px 8%;
-    background: #111;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-}
-
-.logo {
-    font-size: 25px;
-    font-weight: bold;
-    color: #d4af37;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    margin-left: 25px;
-    font-size: 14px;
-}
-
-nav a:hover {
-    color: #d4af37;
-}
-
-section {
-    padding: 90px 10%;
-}
-
-.hero {
-    min-height: 90vh;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 30px;
-}
-
-.hero h1 {
-    font-size: 55px;
-    margin-bottom: 15px;
-}
-
-.hero h1 span {
-    color: #d4af37;
-}
-
-.hero h3 {
-    color: #d4af37;
-    margin-bottom: 20px;
-}
-
-.hero p {
-    color: #bbb;
-    max-width: 550px;
-}
-
-.btn {
-    display: inline-block;
-    background: #d4af37;
-    color: black;
-    padding: 13px 28px;
-    margin-top: 25px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-}
-
-.btn:hover {
-    background: white;
-}
-
-.heading {
-    font-size: 35px;
-    text-align: center;
-    margin-bottom: 40px;
-}
-
-.heading span {
-    color: #d4af37;
-}
-
-.about p {
-    color: #bbb;
-    max-width: 850px;
-    margin: auto;
-    text-align: center;
-}
-
-.skills-container,
-.projects-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
-}
-
-.card {
-    background: #171717;
-    padding: 30px;
-    border-radius: 10px;
-    border: 1px solid #333;
-    transition: 0.3s;
-}
-
-.card:hover {
-    transform: translateY(-8px);
-    border-color: #d4af37;
-}
-
-.card h3 {
-    color: #d4af37;
-    margin-bottom: 12px;
-}
+# GOWTHAM D
 
-.card p {
-    color: #bbb;
-}
+### DIGITAL MARKETING PROFESSIONAL
 
-.experience {
-    max-width: 800px;
-    margin: auto;
-}
+**SEO | GOOGLE ADS | META ADS | PPC | SOCIAL MEDIA MARKETING**
 
-.experience .card {
-    margin-bottom: 20px;
-}
+📍 Chennai, Tamil Nadu, India
 
-.contact {
-    text-align: center;
-}
+\<a href="mailto:[dgowtham091@gmail.com](mailto\:dgowtham091@gmail.com)">EMAIL ME\</a> •
+\<a href="[https://www.linkedin.com/in/gowtham-d-972007417/](https://www.linkedin.com/in/gowtham-d-972007417/)">LINKEDIN\</a>
 
-.contact p {
-    color: #bbb;
-    margin: 12px;
-}
+---
 
-footer {
-    text-align: center;
-    padding: 25px;
-    background: #111;
-    color: #aaa;
-}
+### PROFESSIONAL PROFILE
 
-@media(max-width: 768px) {
+*Building Digital Presence. Creating Marketing Opportunities. Driving Business Growth.*
 
-    header {
-        flex-direction: column;
-        gap: 15px;
-    }
+\</div>
 
-    nav a {
-        margin: 7px;
-        display: inline-block;
-    }
+## ABOUT ME
 
-    .hero {
-        text-align: center;
-        justify-content: center;
-    }
+I am an MBA graduate with a strong interest in Digital Marketing, online business development, and performance marketing strategies.
 
-    .hero h1 {
-        font-size: 38px;
-    }
+I have completed a six-month Digital Marketing internship at **WHY Global Services**, where I gained practical exposure to Search Engine Optimization (SEO), Google Ads, Meta Ads, Social Media Marketing, and Content Creation.
 
-    section {
-        padding: 65px 6%;
-    }
-}
+Additionally, I bring **1 year and 6 months of professional experience** as a Data Entry Executive at FCS Pvt. Ltd., where I developed strong skills in data management, documentation, reporting, and accuracy.
 
-</style>
-</head>
+I am passionate about developing digital marketing skills, exploring new marketing technologies, and contributing to business growth through effective online marketing strategies.
 
-<body>
+## CORE COMPETENCIES
 
-<header>
+| Digital Marketing          | Skills                           |
+| :------------------------- | :------------------------------- |
+| Search Engine Optimization | Keyword Research, On-Page SEO    |
+| Search Engine Marketing    | Google Ads, PPC                  |
+| Paid Advertising           | Meta Ads, Campaign Setup         |
+| Social Media Marketing     | Content Planning, Engagement     |
+| Content Marketing          | Content Creation, Canva          |
+| Web Analytics              | Google Analytics, Search Console |
 
-<div class="logo">GOWTHAM D.</div>
+## TECHNOLOGY & TOOLS
 
-<nav>
-<a href="#home">Home</a>
-<a href="#about">About</a>
-<a href="#skills">Skills</a>
-<a href="#experience">Experience</a>
-<a href="#projects">Projects</a>
-<a href="#contact">Contact</a>
-</nav>
+\<p> \<img src="[https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge\&logo=googleads\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge\&logo=meta\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)"> \<img src="[https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)"> \<img src="[https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)"> \</p>
 
-</header>
+## PROFESSIONAL EXPERIENCE
 
-<!-- HOME -->
+### DIGITAL MARKETING INTERN
 
-<section class="hero" id="home">
+**WHY Global Services | 6 Months**
 
-<div>
+- Gained practical exposure to SEO and keyword research.
+- Worked on Google Ads campaign setup and optimization.
+- Learned Meta Ads campaign creation and management.
+- Developed social media content and promotional strategies.
+- Worked with Google Analytics and Google Search Console.
 
-<h3>WELCOME TO MY PORTFOLIO</h3>
+### DATA ENTRY EXECUTIVE
 
-<h1>Hi, I'm <span>Gowtham D</span></h1>
+Fluoro Carbon Seal&#x73;**&#x20;Pvt. Ltd. | 1 Year  8 Months**
 
-<h3>Digital Marketing Professional</h3>
+- Managed company records and database information.
+- Maintained accurate documentation and reports.
+- Handled data processing and record management.
+- Supported dispatch reporting and inventory documentation.
 
-<p>
-MBA Graduate with practical experience in Digital Marketing,
-SEO, Google Ads, Meta Ads and Social Media Marketing.
-Passionate about helping businesses grow through digital strategies.
-</p>
+## FEATURED PROJECTS
 
-<a href="#contact" class="btn">Contact Me</a>
+### 01. GM SPORTS SHOP
 
-</div>
+**E-commerce & Digital Marketing Project**
 
-</section>
+- Website content development.
+- SEO keyword research and optimization.
+- Google Ads campaign planning.
+- Social media marketing strategies.
+- Product promotion and brand awareness ideas.
 
-<!-- ABOUT -->
+### 02. SOCIAL MEDIA MARKETING
 
-<section class="about" id="about">
+- Social media content planning.
+- Promotional creative development.
+- Audience engagement strategies.
+- Brand awareness campaign ideas.
 
-<h2 class="heading">About <span>Me</span></h2>
+### 03. SEO & WEBSITE OPTIMIZATION
 
-<p>
-I am Gowtham D, an MBA graduate with a strong interest in
-Digital Marketing and business growth strategies.
+- Keyword research.
+- On-page SEO practices.
+- Website content optimization.
+- Google Search Console practice.
 
-I completed a six-month Digital Marketing internship at
-WHY Global Services, where I gained practical experience
-in SEO, Google Ads, Meta Ads, Social Media Marketing
-and Content Creation.
+## EDUCATION
 
-Additionally, I have 1 year and 6 months of professional
-experience as a Data Entry Executive at FCS Pvt. Ltd.
-I developed skills in data management, documentation
-and record maintenance.
+| Degree | Institution                       |
+| :----- | :-------------------------------- |
+| MBA    | Sri Ramanujar Engineering College |
+| B.Com  | Bharath University                |
 
-I am passionate about digital marketing, online brand
-development and performance-driven marketing strategies.
-My goal is to contribute to business growth while
-continuously developing my professional skills.
-</p>
+## CERTIFICATIONS
 
-</section>
+- Advanced Digital Marketing Certification – Why Tap Institute
+- English Communication Skill Certification – VLC Institute
 
-<!-- SKILLS -->
+## PROFESSIONAL STRENGTHS
 
-<section id="skills">
+- Quick Learner
+- Self-Motivated
+- Hardworking
+- Adaptability
+- Problem-Solving
+- Time Management
 
-<h2 class="heading">My <span>Skills</span></h2>
+## CAREER OBJECTIVE
 
-<div class="skills-container">
+To build a successful career in Digital Marketing by applying my knowledge of SEO, PPC advertising, Google Ads, Meta Ads, and social media marketing while contributing to organizational growth and continuously developing my professional capabilities.
 
-<div class="card">
-<h3>SEO</h3>
-<p>Keyword Research, On-Page SEO, Off-Page SEO and Website Optimization.</p>
-</div>
+## LET'S CONNECT
 
-<div class="card">
-<h3>Google Ads</h3>
-<p>Campaign Setup, Keyword Planning and Search Advertising.</p>
-</div>
+I am interested in Digital Marketing Executive, SEO Executive, and PPC Analyst opportunities.
 
-<div class="card">
-<h3>Meta Ads</h3>
-<p>Facebook Advertising, Instagram Ads and Campaign Management.</p>
-</div>
+📧 **Email:** [dgowtham091@gmail.com](mailto\:dgowtham091@gmail.com)
 
-<div class="card">
-<h3>Social Media</h3>
-<p>Social Media Management, Content Planning and Engagement.</p>
-</div>
+📱 **Phone:** +91 9361786838
 
-<div class="card">
-<h3>Content Creation</h3>
-<p>Creative Content, Canva Designs and Marketing Copywriting.</p>
-</div>
+📍 **Location:** Chennai, Tamil Nadu, India
 
-<div class="card">
-<h3>Analytics</h3>
-<p>Google Analytics and Google Search Console.</p>
-</div>
+🔗 **LinkedIn:** [Connect with Gowtham D](https://www.linkedin.com/in/gowtham-d-972007417/)
 
-</div>
+---
 
-</section>
+\<div align="center">
 
-<!-- EXPERIENCE -->
+### THANK YOU FOR VISITING MY PORTFOLIO
 
-<section id="experience">
+**GOWTHAM D**
 
-<h2 class="heading">Work <span>Experience</span></h2>
+*Digital Marketing | SEO | Google Ads | PPC*
 
-<div class="experience">
-
-<div class="card">
-
-<h3>Digital Marketing Intern</h3>
-
-<p><strong>WHY Global Services</strong></p>
-
-<p>Duration: 6 Months</p>
-
-<p>
-Worked on SEO, Google Ads, Meta Ads, Social Media Marketing
-and Digital Content Creation.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>Data Entry Executive</h3>
-
-<p><strong>FCS Pvt. Ltd.</strong></p>
-
-<p>Duration: 1 Year and 6 Months</p>
-
-<p>
-Handled data management, company records,
-documentation, dispatch reporting and data accuracy.
-</p>
-
-</div>
-
-</div>
-
-</section>
-
-<!-- PROJECTS -->
-
-<section id="projects">
-
-<h2 class="heading">My <span>Projects</span></h2>
-
-<div class="projects-container">
-
-<div class="card">
-
-<h3>GM Sports Shop</h3>
-
-<p>
-E-commerce Digital Marketing Project.
-Worked on website content, SEO keyword research,
-Google Ads planning and social media promotions.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>Social Media Marketing</h3>
-
-<p>
-Created social media content ideas,
-marketing creatives and promotional campaigns.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>SEO Practice</h3>
-
-<p>
-Practiced keyword research, website optimization,
-SEO content writing and Google Search Console.
-</p>
-
-</div>
-
-</div>
-
-</section>
-
-<!-- CONTACT -->
-
-\<section class="contact" id="contact">
-
-\<h2 class="heading">Contact \<span>Me\</span>\</h2>
-
-\<p> 📧 Email: \<a href="mailto\:dgowtham091\@gmail.com" style="color:#d4af37;"> dgowtham091\@gmail.com \</a> \</p>
-
-\<p> 📞 Phone: \<a href="tel:+919361786838" style="color:#d4af37;"> +91 9361786838 \</a> \</p>
-
-\<p>📍 Location: Chennai, Tamil Nadu, India\</p>
-
-\<p> LinkedIn: \<a href="[https://www.linkedin.com/in/gowtham-d-972007417/](https://www.linkedin.com/in/gowtham-d-972007417/)" style="color:#d4af37;" target="\_blank"> View My LinkedIn \</a> \</p>
-
-\<a href="mailto\:dgowtham091\@gmail.com" class="btn"> Hire Me \</a>
-
-\</section>
-
-<footer>
-
-<p>© <span id="year"></span> Gowtham D. All Rights Reserved.</p>
-
-<p>Digital Marketing Portfolio</p>
-
-</footer>
-
-<script>
-document.getElementById("year").textContent =
-new Date().getFullYear();
-</script>
-
-</body>
-</html>
+\</div>
