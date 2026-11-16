@@ -334,9 +334,9 @@ and Digital Content Creation.
 
 <h3>Data Entry Executive</h3>
 
-<p><strong>FCS Pvt. Ltd.</strong></p>
+<p><strong>Fluoro Carbon Seals Pvt. Ltd.</strong></p>
 
-<p>Duration: 1 Year and 6 Months</p>
+<p>Duration: 1 Year and 8 Months</p>
 
 <p>
 Handled data management, company records,
