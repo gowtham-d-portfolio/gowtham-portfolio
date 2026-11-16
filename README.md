@@ -107,9 +107,9 @@ Responsibilities:
 
 ## 📫 Connect With Me
 
-- 📧 Email: [dgowtham091@gmail.com](mailto\:dgowtham091@gmail.com)
+- 📧 Email: [dgowtham091@gmail.com](mailto:dgowtham091@gmail.com)
 - 📱 Phone: +91 9361786838
-- 💼 LinkedIn: [Gowtham D](www.linkedin.com/in/gowtham-d-972007417)
+- 💼 LinkedIn: [Gowtham D](https://www.linkedin.com/in/gowtham-d-972007417/)
 
 ---
 
